@@ -35,3 +35,13 @@ main {
   top: 440px;
   right: 210px;
 }
+
+#cat4 {
+  top: 300px;
+  left: 550px;
+}
+
+#cat5 {
+  bottom: 100px;
+  left: 400px;
+}
